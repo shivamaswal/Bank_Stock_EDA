@@ -9,6 +9,11 @@ Stock Price past 15 Years:
 ![stock_price](https://github.com/shivamaswal/Bank_Stock_EDA/assets/92840731/c0ffe462-448c-40fb-8f3d-01d4e350d234)
 
 ### EDA
+
+Stocks' Returns in different period:
+
+![stock_performance](https://github.com/shivamaswal/Bank_Stock_EDA/assets/92840731/14113e0b-b7cc-4f66-97a5-f7ce8967cbd0)
+
 Risk Factor of each stock using returns given:
 
 ![non_risky](https://github.com/shivamaswal/Bank_Stock_EDA/assets/92840731/722bed6b-acdc-4f80-931c-4a3da03bdee5)
@@ -17,10 +22,6 @@ Risk Factor of each stock using returns given:
 Stocks Correlation with each other:
 
 ![stock_correlation](https://github.com/shivamaswal/Bank_Stock_EDA/assets/92840731/8ea09ae6-7e51-4f6f-80e6-56fa5d654c5c)
-
-Stocks' Returns in different period:
-
-![stock_performance](https://github.com/shivamaswal/Bank_Stock_EDA/assets/92840731/14113e0b-b7cc-4f66-97a5-f7ce8967cbd0)
 
 Effect of Covid-19 on banking v/s Energy sector:
 
